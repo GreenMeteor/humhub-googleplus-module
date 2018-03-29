@@ -1,0 +1,10 @@
+{
+    "id": "googleplus",
+    "name": "Google+",
+    "description": "Add your Google+ profile badge to your HumHub installation.",
+    "keywords": ["google plus"],
+    "version": "1.0.0",
+    "humhub": {
+    "minVersion": "1.0"
+    }
+}
