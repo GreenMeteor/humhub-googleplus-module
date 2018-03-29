@@ -1,8 +1,8 @@
 <?php
     return [
-        '<strong>Discord</strong> Chat' => '<strong>Discord</strong> Chat',
-        'Discord Settings' => 'Discord Settings',
-        'Discord Widget URL:' => 'Discord Widget URL:',
-        '<strong>Discord</strong> module configuration' => '<strong>Discord</strong> module configuration',
+        '<strong>Google+</strong> ' => '<strong>Google+</strong> ',
+        'Google+ Settings' => 'Google+ Settings',
+        'Google+ profile URL:' => 'Google+ profile URL URL:',
+        '<strong>Google+</strong> module configuration' => '<strong>Google+</strong> module configuration',
         'Save' => 'Save',
     ];
